@@ -18,6 +18,6 @@ draw = (_) => {
       pop();
     }
   }
-  if (k == 0) saveGif("xp060.gif", 447, { delay: 0, units: "frames" });
+  if (k == 0) saveGif("xp060.gif", 600, { delay: 0, units: "frames" });
   k += 0.01;
 };
